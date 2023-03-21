@@ -17,7 +17,7 @@ La implementación de la integración y despliegue continuos permitirá que, par
 Nos vamos a basar en  el proyecto _HelloWorld_ en NodeJs, disponible en https://github.com/ualcnsa/nodeapp. Necesitarás poder hacer cambios sobre el mismo, así que crea un _fork_ y trabaja con tu _fork_ a partir de ahora. 
 Tras clonar tu _fork_ a local, haz checkout del tag `v0.1` en una nueva rama cuyo nombre sea tu usuario de la UAL, para que tus archivos estén en el estado inicial de este tutorial: 
 
- git checkout tags/v0.1 -b <branch> <1>
+ git checkout v0.1 -b <branch> <1>
 
 <1> Usa tu nombre de usuario de la UAL como nombre de la rama.
 
